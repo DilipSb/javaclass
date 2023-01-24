@@ -1,0 +1,24 @@
+package com.dilip;
+
+public class day5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//conditional statement
+		//one input and multiple outcomes
+		
+		// conditional statement 
+		
+				// one input and multiple outcomes
+				
+				// tickets
+				// numT > 0 && numT <= 5   ====> 10 % D
+				// numT > 5 && numT <= 10  ====> 20 % D
+				// numT > 10               ====> 30 % D
+				
+		
+		
+	}
+
+}

@@ -1,0 +1,35 @@
+package com.dilip;
+
+public class day7 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	// Switch without break
+		
+		int day = 5
+				
+//        switch(day){
+//        case 1: 
+//               System.out.printl("Sunday")
+//        case 2:	
+//				 System.out.println("Monday)
+//        case :
+//               System.out.println("Tuesday)
+//        case 4:
+//	            System.out.println("Wednesday")
+//        case 5:
+//	            System.out.println("Thursday")
+//        case 6:
+//              System.out.println("Friday")
+//        case 7:
+//              System.out.println("Saturday")
+//        default:
+//              System.out.println("please input correct day")
+//		
+//}
+
+				
+				
+				
+}
