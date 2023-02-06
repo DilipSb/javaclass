@@ -143,7 +143,16 @@ public class day9 {
 					wc++; // 2 // 4 // 5 // 6	
 		
 				}
-	}
+	}int wc = 1 ;
+				while(wc <= 5) {
+					if(wc == 2) {
+						//wc ++; // 3
+						continue;
+					}
+					System.out.println(wc);  //1 // 3 // 4 // 5
+					wc++; // 2 // 4 // 5 // 6	
+		
+				}
 }
 
 
