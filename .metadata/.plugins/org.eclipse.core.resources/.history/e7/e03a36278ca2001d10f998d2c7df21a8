@@ -1,0 +1,15 @@
+package com.dilip;
+
+public class day10 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        String fullName = "dilipbabu";
+		//creating object of type sting (inbuilt data type)
+		String n = fullName.toUpperCase();
+		System.out.println(n);
+
+		
+	}
+
+}
